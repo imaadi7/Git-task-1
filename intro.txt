@@ -1,0 +1,2 @@
+This is my first Git and GitHub task where I am learning basic commands and version control.
+This file introduces the task and its purpose in the repository.
