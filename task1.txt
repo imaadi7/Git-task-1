@@ -1,0 +1,6 @@
+Task 1:-
+ Set up GitHub and Git Bash
+ Created a new repository on GitHub.
+ Cloned the repository to my local machine.
+ Added and committed a file named intro.txt.
+ Pushed the changes to the remote repository.
