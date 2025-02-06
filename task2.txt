@@ -1,0 +1,4 @@
+Task 2:-
+Created new branches: A, B, and C
+Added files and made commits in each branch
+Pushed branches to GitHub
